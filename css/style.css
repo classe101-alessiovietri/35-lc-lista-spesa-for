@@ -6,3 +6,13 @@
 *:not(ul) {
     padding: 0;
 }
+
+.color {
+    color: lightcoral;
+}
+
+li {
+    cursor: pointer;
+    padding: 20px;
+    border: 3px solid red;
+}
